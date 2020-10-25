@@ -1,0 +1,4 @@
+TITLE = "Mirabai "
+VERSION = "1.0.0"
+
+SIZE_WINDOW = "800x800"
